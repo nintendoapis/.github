@@ -24,7 +24,10 @@ https://github.com/samuelthomas2774/nxapi/blob/main/src/api/coral-types.ts - Cor
 https://github.com/samuelthomas2774/nxapi/blob/main/src/api/moon-types.ts - Moon API types  
 https://github.com/samuelthomas2774/nxapi/blob/main/src/api/splatnet2-types.ts - SplatNet 2 API types  
 https://github.com/samuelthomas2774/nxapi/blob/main/src/api/nooklink-types.ts - NookLink API types  
-https://github.com/samuelthomas2774/nxapi/blob/main/src/api/splatnet3-types.ts - SplatNet 3 API types
+
+TypeScript definitions for the SplatNet 3 GraphQL API and Splatoon3.ink.
+
+https://github.com/nintendoapis/splatnet3-types
 
 Documentation for Nintendo Account OIDC and Coral JWTs and SplatNet 2 session cookies.
 
@@ -77,7 +80,7 @@ Other
 
 ### Nintendo app versions
 
-Latest release information for the Nintendo Switch Online and Nintendo Switch Parental Controls apps from iTunes, Google Play and Nintendo's JP/EU websites, and SplatNet 3.
+Latest release information for the Nintendo Switch Online and Nintendo Switch Parental Controls apps from iTunes, Google Play and Nintendo's JP/EU websites, and SplatNet 3 and NookLink.
 
 https://github.com/nintendoapis/nintendo-app-versions - [@samuelthomas2774](https://github.com/samuelthomas2774)
 
@@ -86,5 +89,11 @@ Release notifications via Discord: https://discord.com/channels/9986577685946081
 ### SplatNet 3 app resources
 
 Archived original and formatted JS/CSS and other assets used in SplatNet 3.
+
+Request access via Discord.
+
+### NookLink app resources
+
+Archived original and formatted JS/CSS and other assets used in NookLink.
 
 Request access via Discord.
